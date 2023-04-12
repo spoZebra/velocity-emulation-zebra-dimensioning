@@ -1,6 +1,6 @@
 
-# Zebra Parcel Dimensioning integration with Velocity Emulation 
-Use Mobile Parcel API from Zebra to get dimensioning within Velocity Client emulation form Ivanti (e.g. IBM 5250/3270 and VT100/220).
+# Zebra Parcel Dimensioning integration with Velocity 
+Use Mobile Parcel API from Zebra within Ivanti Velocity Client emulation (e.g. IBM 5250/3270 and VT100/220).
 API Reference: [Mobile Parcel API - TechDocs (zebra.com)](https://techdocs.zebra.com/mobile-parcel/latest/guide/api/)
 
 
@@ -12,6 +12,9 @@ The Zebra Parcel Dimensioning solution provides fast and accurate point-and-shoo
 
 This project contains all the resources needed to make the Zebra Parcel Dimensioning solution run within Velocity client emulation.
 
+
+### Preview
+<img src="https://user-images.githubusercontent.com/101400857/230152772-c4f8fd3a-af5f-409b-9f7b-6e9c5c27bc27.png" width=30% height=30%> <img src="https://user-images.githubusercontent.com/101400857/230152798-1abe75ca-07a6-49e3-99e5-f5e74b891ee0.png" width=30% height=30%> <img src="https://user-images.githubusercontent.com/101400857/230152819-7db6d14e-62a0-435c-975a-48e4f9e7c543.png" width=30% height=30%>
 
 ## Requirements
 
@@ -32,11 +35,10 @@ This project contains all the resources needed to make the Zebra Parcel Dimensio
 ### Code
 
 Source code for the middleware apk is available here: https://github.com/spoZebra/zebra-dimensioning-activity-for-result
+
 Script used in Velocity host profile is attached to this project: 
 https://github.com/spoZebra/velocity-emulation-zebra-dimensioning/blob/7e0fe90606d20bbf6ff5e22d9b348acb332dd007/velocity-script-lauch-zebra-dimensioning.js
 
-### Demo
-<img src="https://user-images.githubusercontent.com/101400857/230152772-c4f8fd3a-af5f-409b-9f7b-6e9c5c27bc27.png" width=30% height=30%><img src="https://user-images.githubusercontent.com/101400857/230152798-1abe75ca-07a6-49e3-99e5-f5e74b891ee0.png" width=30% height=30%><img src="https://user-images.githubusercontent.com/101400857/230152819-7db6d14e-62a0-435c-975a-48e4f9e7c543.png" width=30% height=30%>
 
 # License
 MIT
