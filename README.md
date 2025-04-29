@@ -34,10 +34,11 @@ This project contains all the resources needed to make the Zebra Parcel Dimensio
 
 ### Code
 
-Source code for the middleware apk is available here: https://github.com/spoZebra/zebra-dimensioning-activity-for-result
+Source code for the middleware apk is available here: [MDIntegrationApp](https://github.com/ZebraDevs/Mobile_Dimensioning_Samples/tree/main/Java/MDIntegrationApp)
 
-Script used in Velocity host profile is attached to this project: 
-https://github.com/spoZebra/velocity-emulation-zebra-dimensioning/blob/7e0fe90606d20bbf6ff5e22d9b348acb332dd007/velocity-script-lauch-zebra-dimensioning.js
+Script used in Velocity host profile is attached to this project: velocity-script-lauch-zebra-dimensioning.js
+
+The full Velocity Profile is available in this repo, "Zebra Dimensioning - Velocity Console Profile.zip," and can be imported into a new Velocity Console project and modified upon your needs.
 
 
 # License
