@@ -1,3 +1,5 @@
+> [!WARNING]
+> This repo was archived as it is now part of the official supported samples from Zebra Technologies: https://github.com/ZebraDevs/Mobile_Dimensioning_Samples
 
 # Zebra Parcel Dimensioning integration with Velocity 
 Use Mobile Parcel API from Zebra within Ivanti Velocity Client emulation (e.g. IBM 5250/3270 and VT100/220).
